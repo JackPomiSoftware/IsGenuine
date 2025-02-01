@@ -1,0 +1,10 @@
+F:\Users\Jack Pomi\source\repos\IsGenuine\bin\Debug\IsGenuine.exe.config
+F:\Users\Jack Pomi\source\repos\IsGenuine\bin\Debug\IsGenuine.exe
+F:\Users\Jack Pomi\source\repos\IsGenuine\bin\Debug\IsGenuine.pdb
+F:\Users\Jack Pomi\source\repos\IsGenuine\obj\Debug\IsGenuine.csproj.AssemblyReference.cache
+F:\Users\Jack Pomi\source\repos\IsGenuine\obj\Debug\IsGenuine.Form1.resources
+F:\Users\Jack Pomi\source\repos\IsGenuine\obj\Debug\IsGenuine.Properties.Resources.resources
+F:\Users\Jack Pomi\source\repos\IsGenuine\obj\Debug\IsGenuine.csproj.GenerateResource.cache
+F:\Users\Jack Pomi\source\repos\IsGenuine\obj\Debug\IsGenuine.csproj.CoreCompileInputs.cache
+F:\Users\Jack Pomi\source\repos\IsGenuine\obj\Debug\IsGenuine.exe
+F:\Users\Jack Pomi\source\repos\IsGenuine\obj\Debug\IsGenuine.pdb
